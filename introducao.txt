@@ -3,3 +3,7 @@ práticos e teóricos em versionamento de código com Git e no
 repositório Github, capacitando-os a trabalhar de forma eficiente e
 colaborativa em projetos de desenvolvimento de software usando
 controle de versão.
+
+Registre as etapas com prints da tela e comentários relatando dificuldades e
+informações relevantes sobre a prática. No final, organize tudo em um arquivo PDF,
+como um relatório simplificado, e envie no Moodle para registro e acompanhamento.
