@@ -8,4 +8,4 @@ Registre as etapas com prints da tela e comentários relatando dificuldades e
 informações relevantes sobre a prática. No final, organize tudo em um arquivo PDF,
 como um relatório simplificado, e envie no Moodle para registro e acompanhamento.
 
-Repositorio clonado (baixado) de clone_de_MeuProjeto. Fiz essas alterações e agora vou pedir um pull request. VAmos ver no que vai dar.
+Fork de lbernardes0208. Foi feito um espelhamento de lbernardes0208/MeuProjeto para lasbernardes/lbernardes0208_MeuProjeto. Por linha de comando, foi feito um clone de lasbernardes/lbernardes0208_MeuProjeto para meu computador. Em seguida, fiz alterações neste arquivo, o qual vai ser subido (upload) com push para lasbernardes/lbernardes0208_MeuProjeto e em seguida feito um resquest pull pelo site github.
